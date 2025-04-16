@@ -1,6 +1,6 @@
-# Tech Articles by Muhammad Hanzala  
-
-## 📝 Tech Articles
+<h2 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=36BCF7&vCenter=true&width=600&lines=Tech+Articles+by+Muhammad+Hanzala" alt="Typing SVG">
+</h2>
 
 ### A Glimpse into Essential Linux Commands for DevOps & Cloud Computing  
 🔗 [Read on Medium](https://medium.com/dev-genius/a-glimpse-into-essential-linux-commands-for-devops-cloud-computing-95f2deb5f07b)  
