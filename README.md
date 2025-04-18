@@ -17,3 +17,7 @@
 ### Terraform & DevOps – The Perfect Duo for Modern Infrastructure (Beginner Friendly Guide)  
 🔗 [Read on Medium](https://medium.com/@mhanzala.bmw/terraform-devops-the-perfect-duo-for-modern-infrastructure-beginner-friendly-guide-25a015498d1e)  
 🔗 [Read on LinkedIn](https://www.linkedin.com/posts/muhammad-hanzala-13a789209_terraform-devops-iac-activity-7317879399343661057-3Pp1?utm_source=share&utm_medium=member_android&rcm=ACoAADT5aX4BnPJe22ASS_gmikWPhzgscKfqTIM)
+
+### Terraform Mastery Series - Part 2: From Local to EC2 - Automate Your First Instance with Terraform  
+🔗 [Read on Medium](https://medium.com/@mhanzala.bmw/terraform-mastery-series-part-2-from-local-to-ec2-automate-your-first-instance-with-a72d7d969c27)  
+🔗 [Read on LinkedIn](https://www.linkedin.com/pulse/terraform-mastery-series-part-2-from-local-ec2-automate-hanzala-mdd2f/?trackingId=VozFc0K4TaqTvgCaOlcz6Q%3D%3D)
