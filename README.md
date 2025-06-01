@@ -6,6 +6,7 @@
 ### The 7Rs Framework Every Solution Architect Should Know Before Their First Cloud Migration
 
 🔗 [Read on Medium](https://medium.com/@muhammad_hanzala/the-7rs-framework-every-solution-architect-should-know-before-their-first-cloud-migration-09f5db812f14)
+
 🔗 [Read on LinkedIn](https://www.linkedin.com/pulse/7rs-framework-every-solution-architect-should-know-before-hanzala-kj1df/)
 
 ---
