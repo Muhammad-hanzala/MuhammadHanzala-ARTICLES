@@ -1,6 +1,7 @@
-<h2 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=4000&pause=1000&color=36BCF7&vCenter=true&width=900&lines=Muhammad+Hanzala+Tech+Articles" alt="Typing SVG">
-</h2>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=4000&pause=1000&color=36BCF7&vCenter=true&width=900&lines=Exploring+Tech+Insights+by+Muhammad+Hanzala" alt="Typing SVG">
+</p>
+
 
 ### The 7Rs Framework Every Solution Architect Should Know Before Their First Cloud Migration
 🔗 [Read on Medium](https://medium.com/@muhammad_hanzala/the-7rs-framework-every-solution-architect-should-know-before-their-first-cloud-migration-09f5db812f14)
